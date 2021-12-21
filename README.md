@@ -1,9 +1,7 @@
 ## What is Cyber Intelligence?
 
-1. [What is Cyber Intelligence?](https://fedvte.usalearning.gov/courses/ICI/index01.htm)
-
-2. [Cyber Intelligence - Why Should You Care?](https://fedvte.usalearning.gov/courses/ICI/index02.htm)
-
+1. What is Cyber Intelligence?
+2. Cyber Intelligence - Why Should You Care?
 3. Cyber Intelligence - Skills, Traits, Competencies
 4. Cyber Intelligence - Conceptual Framework
 5. Environmental Context
